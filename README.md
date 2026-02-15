@@ -140,6 +140,7 @@ banking-modern-datastack/
 ---
 
 **Author**: *Jaya Chandra Kadiveti*  
-**LinkedIn**: [jayachandrakadiveti](https://www.linkedin.com/in/jayachandrakadiveti/)  
-**Contact**: [datawithjay1@gmail.com](mailto:datawithjay1@gmail.com)  
+**LinkedIn**: [jayachandrakadiveti](https://www.linkedin.com/in/adithsreeram/)  
+**Contact**: [datawithjay1@gmail.com](mailto:adithnadar@gmail.com)  
+
 
