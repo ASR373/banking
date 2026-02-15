@@ -626,17 +626,6 @@ jobs:
 - [x] CI/CD with GitHub Actions
 - [x] Docker containerization
 
-### **In Progress** 🏗️
-- [ ] Real-time dashboards (Streamlit/Tableau)
-- [ ] Data quality framework (Great Expectations)
-- [ ] Cost optimization analysis
-
-### **Future Enhancements** 🔮
-- [ ] Machine learning models (fraud detection)
-- [ ] GraphQL API for data access
-- [ ] Multi-region deployment
-- [ ] Kubernetes orchestration
-
 ---
 
 ## 📚 Learning Resources
@@ -674,8 +663,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Adith Sreeram Arjunan Sivakumar**
 
 - GitHub: [@ASR373](https://github.com/ASR373)
-- LinkedIn: [Your LinkedIn Profile](#)
-- Email: your.email@example.com
+- LinkedIn: [https://www.linkedin.com/in/adithsreeram/](https://www.linkedin.com/in/adithsreeram/)
+- Email: adithnadar@gmai.com
 
 ---
 
@@ -694,3 +683,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Made with ❤️ by [ASR373](https://github.com/ASR373)
 
 </div>
+
